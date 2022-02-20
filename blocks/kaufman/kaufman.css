@@ -6,3 +6,35 @@
     display: block;
     z-index: 1;
 }
+
+.section-title_theme_dark {
+    margin: 90px auto 0;
+    background: none;
+    color: white;
+    width: 60%;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.section-subtitle_theme_dark {
+    color: white;
+    background: none;
+    width: 60%;
+    line-height: 34px;
+    font-size: 24px;
+    margin: 20px auto 0;
+    text-align: center;
+}
+
+.kaufman__triangle {
+    position: absolute;
+    background-image: url(../images/kaufman-triangle.svg);
+    width: 877px;
+    height: 877px;
+    background-size: cover;
+    top: 0px;
+    right: -210px;
+    z-index: -1;
+}
