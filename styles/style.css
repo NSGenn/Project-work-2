@@ -50,6 +50,7 @@
 .header__link {
     text-decoration: none;
     color: #2f80ed;
+    transform: rotate(360 deg);
 }
 
 .header__main-illustration {
